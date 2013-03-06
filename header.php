@@ -1,9 +1,6 @@
-
 <head>
-		<link rel="stylesheet" href="css/bootstrap.css" />
-	
-
-		<link rel="stylesheet" href="css/font-awesome.css">
+	<link rel="stylesheet" href="css/bootstrap.css" />
+	<link rel="stylesheet" href="css/font-awesome.css">
 </head>
 <div class="navbar navbar-inverse navbar-static-bottom">
 	<div class="navbar-inner">
