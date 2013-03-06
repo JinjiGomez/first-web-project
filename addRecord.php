@@ -89,8 +89,8 @@
 				<?php foreach($errmessage as $error) { ?>
 				<li><h6><?php echo $error; ?></h6></li> <?php } ?>
 			</ul>
-				<?php unset($errmessage); } ?>
-			</div> 
+				<?php unset($errmessage);  ?>
+			</div> <?php } ?>
 			
 			
 			<?php if (isset($message) && isset($_POST["submit"])) { ?>
